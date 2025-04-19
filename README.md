@@ -57,7 +57,7 @@ The dashboard slices and visualizes data based on:
 
 ## 🤝 Let's Connect
 
-- **Gmail:** [Tejas S](tejas.analyst.11304@gmail.com)
+- **Gmail:** [tejas.analyst.11304@gmail.com]
 - **LinkedIn:** [My Profile](https://www.linkedin.com/in/tejas-data-analyst/)
 
 ---
