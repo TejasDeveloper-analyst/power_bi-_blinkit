@@ -8,7 +8,7 @@ A dynamic Power BI dashboard that analyzes Blinkit's grocery sales across India,
 
 ## 🖼️ Project Preview
 
-![Dashboard Preview](link-to-your-dashboard-image)
+![Dashboard Preview](https://github.com/TejasDeveloper-analyst/powerbi_blinkit/blob/ba78341a0e648281bdb035c9962b39f6f066125c/BLINKIT.png)
 
 ## 📚 Project Description
 
@@ -58,6 +58,6 @@ The dashboard slices and visualizes data based on:
 ## 🤝 Let's Connect
 
 - **Gmail:** [Tejas S](tejas.analyst.11304@gmail.com)
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/tejas-data-analyst/)
+- **LinkedIn:** [My Profile](https://www.linkedin.com/in/tejas-data-analyst/)
 
 ---
